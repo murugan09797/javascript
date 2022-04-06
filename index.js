@@ -1,1 +1,1 @@
-console.log("kbkj")
+console.log("index")
